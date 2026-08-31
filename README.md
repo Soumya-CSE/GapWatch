@@ -1,4 +1,4 @@
-# SAT-SA — Supervisory Analytics Tool for SOC Assessment
+# GapWatch — Supervisory Analytics Tool for SOC Assessment
 Analyzes SOC alert and case-management
 data across multiple Critical Sector Entities (CSEs) to flag execution gaps
 and negative space for supervisory review — fully offline, no cloud, no
