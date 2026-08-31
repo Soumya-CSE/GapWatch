@@ -71,7 +71,6 @@ gapwatch/
 ├── .gitignore               # Git ignore pattern rules
 ├── README.md                # Project documentation
 ├── requirements.txt         # Offline dependencies manifest
-└── Screenshot 2026-08-31 205149.png # Interface screenshot asset
 
 ```
 
