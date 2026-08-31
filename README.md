@@ -23,18 +23,12 @@ By ingesting local alert logs and incident response records, GapWatch identifies
 
 ## System Architecture & Data Flow
 
-
-```
-
 ```
                               +-----------------------+
                               | CSV / JSON Telemetry  |
                               +-----------+-----------+
                                           |
                                           v
-
-```
-
 +-----------------------------------------------------------------------------------+
 | GapWatch Local Engine (Offline Boundary)                                          |
 |                                                                                   |
