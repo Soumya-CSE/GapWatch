@@ -220,7 +220,11 @@ See the `LICENSE` file for more information.
 
 ---
 
-## ⭐ Support
+## Support & Appreciation
 
+If you found **GapWatch** useful for learning **Cybersecurity Operations, Unsupervised Machine Learning, Explainable AI (XAI), or Streamlit Dashboard Development**, consider giving this repository a ⭐ on GitHub!
+
+Your support helps highlight the importance of open, air-gapped supervisory analytics tools for critical infrastructure protection.
 If you found this project useful for learning **Cybersecurity, Cryptography, Python, or Flask**, consider giving the repository a ⭐ on GitHub.
+
 
