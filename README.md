@@ -30,12 +30,12 @@ By ingesting local alert logs and incident response records, GapWatch identifies
 
 <img width="1917" height="1012" alt="Screenshot 2026-08-31 204752" src="https://github.com/user-attachments/assets/2af6d221-3db8-47f7-9713-d64c9bf2af3f" />
 
-## ✨ More Options 
+### ✨ More Options 
 
 <img width="1910" height="911" alt="Screenshot 2026-08-31 205126" src="https://github.com/user-attachments/assets/30d961af-9b10-4e5a-af36-dbfcddb2e5b9" />
 
-
-
+### 📁 Report Download
+<img width="1917" height="962" alt="Screenshot 2026-08-31 205149" src="https://github.com/user-attachments/assets/38be1373-5c3a-4576-8eb3-d1cf9f8b486c" />
 
 ---
 
