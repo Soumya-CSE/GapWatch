@@ -1,7 +1,6 @@
 # 🛰️ GapWatch — Supervisory Analytics Tool for SOC Assessment
 
 **GapWatch** is a fully offline, privacy-focused supervisory analytics tool designed to evaluate Security Operations Center (SOC) alert and case-management performance across multiple Critical Sector Entities (CSEs).
-
 By ingesting local alert logs and incident response records, GapWatch identifies execution gaps, operational anomalies, and "negative space" (unreported or suppressed telemetry) across monitored entities without relying on external cloud services or third-party APIs.
 
 ---
@@ -67,7 +66,6 @@ By ingesting local alert logs and incident response records, GapWatch identifies
 ---
 
 ## 📁 Project Structure
-
 
 ```
 
